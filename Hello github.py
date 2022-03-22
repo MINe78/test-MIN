@@ -1,4 +1,4 @@
-a = 'Hello github'
+a = "Hello Open Soure!"
 print(a)
 
 name = 'LEE MIN WOO'
